@@ -10,11 +10,11 @@ This is a very basic suite of Vim syntax files which highlights syntax
 in AOE2 AI personality scripts (with extension .per). 
 
 Many things are missing, like the predefined constant values and so on, but
-it's better than nothing.
+it's better than nothing. If you want to contribute...hey, it's on Github for some reason! ;)
 
 Install
 =======================
 <ul>
-  <li>On \*nix: put these two files in the proper directories ~/.vim/{syntax,ftdetect}</li>
+  <li>On *nix: put these two files in the proper directories ~/.vim/{syntax,ftdetect}</li>
   <li>On Windows: dunno, never used Vim on Windows...search on the vim wiki :P</li>
 </ul>
